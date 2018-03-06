@@ -2,7 +2,7 @@
 def display_board
   puts row = ["   ", "   |   ", "   ", "   |   ", "   "]
   puts "-----------"
-  puts row = ["   ", "|", "   ", "|", "   "]
+  puts row = ["   ", "   |   ", "   ", "   |   ", "   "]
   puts "-----------"
-  puts row = ["   ", "|", "   ", "|", "   "]
+  puts row = ["   ", "   |   ", "   ", "   |   ", "   "]
 end
